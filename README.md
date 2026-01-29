@@ -1,7 +1,4 @@
 # Linux Commands Reference Guide
-
-A comprehensive cheat sheet for essential Linux command-line operations.
-
 ---
 
 ## man
